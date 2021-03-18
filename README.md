@@ -1,5 +1,6 @@
-### Hi there 👋
+### HELLO WORLD! 👋
 
+#### Meu nome é Maycon, sou formado em Sistemas de Informação e estudante de programação, aqui estão postados projetos desenvolvidos durante cursos e bootcamps que participei! 
 <!--
 **Mayconfuzita86/Mayconfuzita86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
