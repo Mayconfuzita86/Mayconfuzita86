@@ -1,6 +1,6 @@
-### HELLO! 👋
+### HELLO WORLD! 👋
 
-#### Meu nome é Maycon, sou formado em Sistemas de Informação e estudo programação web Full Stack e Mobile, aqui estão projetos desenvolvidos durante cursos e bootcamps! 
+#### Meu nome é Maycon, sou formado em Sistemas de Informação, atualmente sou desenvolvedor JAVA, aqui estão comitados projetos desenvolvidos durante cursos e bootcamps! 
 <!--
 **Mayconfuzita86/Mayconfuzita86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
