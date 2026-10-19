@@ -16,22 +16,6 @@ Aqui você encontra projetos desenvolvidos aplicando boas práticas de mercado, 
 
 ---
 
-### 🚀 Projetos em Destaque
-
-* **[API Store](https://github.com/Mayconfuzita86/API_STORE):** API RESTful desenvolvida em Java 17 e Spring Boot para e-commerce, com persistência em MySQL, DTOs e gerenciamento/upload de arquivos estáticos.
-* **[Loja Front-end](https://github.com/Mayconfuzita86/LOJA_FRONT):** Interface web desenvolvida em React com componentização modular, Context API para gerenciamento de estado global e integração completa com a API backend.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mayconfuzita86&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconfuzita86&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
 * **LinkedIn:** [linkedin.com/in/mayconfuzita](https://linkedin.com/in/mayconfuzita)
