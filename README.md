@@ -2,8 +2,6 @@
 
 Meu nome é **Maycon Fuzita**, sou Bacharel em Sistemas de Informação e Desenvolvedor com experiência em **Java Back-End** / **Full Stack**, com mais de 4 anos de experiência na construção e sustentação de sistemas corporativos, microsserviços e APIs REST. 
 
-Aqui você encontra projetos desenvolvidos aplicando boas práticas de mercado, arquitetura limpa, mensageria e automação.
-
 ---
 
 ### 💻 Stack Tecnológica
