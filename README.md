@@ -8,11 +8,11 @@ Aqui você encontra projetos desenvolvidos aplicando boas práticas de mercado, 
 
 ### 💻 Stack Tecnológica
 
-* **Linguagens & Core:** Java (17/21), Spring Boot, TypeScript, JavaScript, PHP
-* **Arquitetura & Integração:** Microsserviços, Arquitetura Orientada a Eventos, DDD, Clean Architecture, Kafka, ActiveMQ
-* **Bancos de Dados:** PostgreSQL, Oracle, MongoDB, MySQL, Liquibase
-* **Cloud & DevOps:** AWS (SQS, S3, RDS), Docker, Jenkins, GitHub Actions, GitLab CI/CD, Argo CD, Swagger / OpenAPI
-* **Qualidade:** JUnit, Mockito, Testes Unitários e de Integração, SonarQube
+* **Linguagens & Core:** Java (17/21), Spring Boot, TypeScript, HTML, CSS, PHP;
+* **Arquitetura & Integração:** Microsserviços, Arquitetura Orientada a Eventos, DDD, Clean Architecture, Kafka, ActiveMQ;
+* **Bancos de Dados:** PostgreSQL, Oracle, MongoDB, MySQL, Liquibase, SQL / PL/SQL;
+* **Cloud & DevOps:** AWS (SQS, S3, RDS), Docker, Jenkins, GitHub Actions, GitLab CI/CD, Argo CD, Swagger / OpenAPI;
+* **Qualidade:** JUnit, Mockito, Testes Unitários e de Integração, SonarQube;
 
 ---
 
